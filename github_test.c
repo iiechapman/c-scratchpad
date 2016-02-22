@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("Test");
+	printf("Testing after publish");
 
 	return 0;
 }
